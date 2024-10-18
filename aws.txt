@@ -1,0 +1,2 @@
+This is aws test file on my EC2 Instance
+also copy into file into tmp folder via Jankins pipeline
